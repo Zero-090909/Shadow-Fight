@@ -1,0 +1,26 @@
+.one{
+    border: 1px solid rgb(221, 255, 0);
+    background-color: rgb(221, 255, 0);
+    width: 200px;
+    height: 200px;
+}
+.two{
+    border: 1px solid blue;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.three{
+    border: 1px solid rgb(174, 1, 255);
+    background-color: rgb(211, 0, 248);
+    width: 200px;
+    height: 200px;
+}
+ header {
+    display: flex ;
+    justify-content:center;
+    flex-flow: row ;
+    align-items: center ;
+    border: 1px solid purple;
+    height: 600px;
+ }
